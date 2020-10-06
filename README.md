@@ -4,9 +4,23 @@
 # Technicalities
 RESTful API development with Python FastAPI with subapi for Swagger docs.
 
+This is an example project which performs the followings
+
+* **HTTP GET Functionality**
+* **HTTP POST Functionality**
+* **HTTP PUT Functionality**
+* **HTTP PATCH Functionality**
+* **HTTP DELETE Functionality**
+* **HTTP File Download Functionality (Multipart)**
+* **Streaming file download**
+* **Show the image**
+* **HTTP File Upload Functionality (Multipart)**
+* **HTTP Multiple File Upload Functionality (Multipart)**
+
 you can access thr swagger docs [Swagger Docs](http://localhost:8090/myapp/docs#)
 
 Here I am using FastAPI specific annotation with respect to OpenAPI docs for generating Swagger documentation
+
 
 ## Python Version
 
